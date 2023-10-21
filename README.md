@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Palazzi</h1>
 <h3 align="center">Full stack developer</h3>
 
-
+- ☀️ Proyecto ecommers tienda de bicicletas Backend CoderHouse: (https://proyecto-backend-9f3q.onrender.com/) 
+  
 - 🔭 CodeCraze [Buenos Aires VRV](https://www.buenosairesvrv.com.ar/)
 
 - 🌱 I’m currently learning Backend **node.js - express.js - http - websocket**
